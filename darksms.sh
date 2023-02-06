@@ -91,7 +91,7 @@ echo -e -n "${negro}
 ┃
 └═>>> "${verde}
 	read -r SMS
-	curl -X POST https://textbelt.com/text --data-urlencode phone="${NUMBER}" --data-urlencode message="${SMS}" -d key=textbelt > /dev/null 2>&1
+	curl -X POST https://textbelt.com/text --data-urlencode phone="${NUMBER}" --data-urlencode message="${SMS}" -d key=df5fe7ba42705426773f7a3f8061b5a69ded2e84Cenx5q7IpJpiz3nvP6Jm54n4c > /dev/null 2>&1
 	if [[ $(echo $?) == "0" ]]; then
 echo -e "${negro}
 ┌═════════════════┐
