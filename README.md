@@ -12,7 +12,7 @@ DarkSMS es un script que utiliza la API del sitio web (https://textbelt.com) par
 * [+] git
 * [+] curl
 # INSTALACIÓN
-* $ git clone https://github.com/Darkmux/DarkSMS
+* $ git clone https://github.com/ElliotSecurity23/DarkSMS
 * $ cd DarkSMS
 * $ chmod 777 darksms.sh
 * $ bash darksms.sh
